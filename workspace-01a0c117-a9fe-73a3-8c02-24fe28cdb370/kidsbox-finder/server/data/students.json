@@ -1,0 +1,1305 @@
+{
+  "generatedAt": "2026-09-20T22:08:17+00:00",
+  "source": "Repartition final.pdf",
+  "demo": false,
+  "classes": [
+    "CPA",
+    "CPB",
+    "CE1",
+    "CE2 A",
+    "CE2 B",
+    "CE6 A",
+    "CE6 B",
+    "CM1",
+    "CM2"
+  ],
+  "students": [
+    {
+      "id": "fd90db600d43",
+      "name": "ABAIDA Mohammed Ahmed",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "c569503181bd",
+      "name": "ACHAMRAH Joudia",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "60ebc0ed0144",
+      "name": "AHOICH Soulaimane",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "group_page"
+    },
+    {
+      "id": "a2d8ccff2f5f",
+      "name": "AIT FASKA Nour",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "085f37a3e62a",
+      "name": "AIT FASKA Yanis",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "4259e51f9f20",
+      "name": "AKID Jabir",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "e4278b1bf5a9",
+      "name": "ALAOUI Zayd",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "ffa6a7e61614",
+      "name": "ALLOUCHE Ikram",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "fa5f1ada1b32",
+      "name": "AMARI Anfal",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "28d10b00f6c5",
+      "name": "AMELLAL Adam",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "60fd846cbb10",
+      "name": "AMOUTFI Malika",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "253f4570934f",
+      "name": "ARIBIA Fares",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "25a96a3ee6b1",
+      "name": "ARIBIA Nader",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "16eecbe17ac6",
+      "name": "ASRI Israe",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "50953b592511",
+      "name": "AZAGANE Boutaina",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "f9c38eea3e5c",
+      "name": "AZAGANE Moulay Hassan",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "bc61cb56189d",
+      "name": "AZNAG Soufia",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "42c71a01feb2",
+      "name": "BARHOUMI Mohamed",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "0b9b6a4e8fe2",
+      "name": "BARHOUMI Yahya",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "d6289f01f096",
+      "name": "BAROUAGUE Imrane",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "2780e96e8649",
+      "name": "BATCHI Iyad",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "7e406b8e0c4e",
+      "name": "BEKKALI Assiya",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "96a380785338",
+      "name": "BELEDA Chaimae",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "ece1ddd80456",
+      "name": "BELEDA Nizar",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "6f982264e923",
+      "name": "BELHADDAD Arij",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "93f5c40535d6",
+      "name": "BELMDAKHLI Ikram",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "a4fa0ac9dcd2",
+      "name": "BEN ABBOU Joudia",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "c7fd5547af0b",
+      "name": "BENHADA Med. Majd",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "6466fdc8bd06",
+      "name": "BENKHOUYA Yassir",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "group_page"
+    },
+    {
+      "id": "b5d1a67a064f",
+      "name": "BENMALLOUK Ayoub",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "1d1d29ab8706",
+      "name": "BENSORDI Chaimae",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "42f6c99e634d",
+      "name": "BENSORDI Hasnae",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "4026b25eacf1",
+      "name": "BOUAROUA Jinane",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "9a0eef5732f5",
+      "name": "BOUHDIDA Iyad",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "5cdc0f2545b8",
+      "name": "BOUKOUB Sami",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "25b5919fe78d",
+      "name": "BOULBOUL Douae",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "91e537d36bfd",
+      "name": "BOUOUARGANE Akram",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "0ef5359b5ffe",
+      "name": "BOUOUARGANE Jad",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "ba341f39a903",
+      "name": "BOURR Adam",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "d5c07a0babda",
+      "name": "BOUTLITATINE Hafsa",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "bfc262ac230f",
+      "name": "BRITEL Chadi",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "8cca360e8af3",
+      "name": "BRIZ Arij",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "d432baf34265",
+      "name": "CHAOUI ROQAI Chems",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "4f43bd34e997",
+      "name": "COLY Djebril",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "7cd711156912",
+      "name": "DALDOULI Ahmed Reda",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "8399588140b4",
+      "name": "DAMEJ Youssef",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "baaa71fddb63",
+      "name": "DHANE Safae",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "c91b725c34b5",
+      "name": "EL BAKKALI Bourhan",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "83e4e95bbcc0",
+      "name": "EL BEKKALI Loqmane",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "9de2e977b912",
+      "name": "EL FAKIR Aliya",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "09fb6fb40790",
+      "name": "EL FAKIR Ayah",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "9c1a680b20e4",
+      "name": "EL HAJJAM Mohammed Firas",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "b76d8145e7a2",
+      "name": "EL MAHRABE Maram",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "a3e8e01b3c40",
+      "name": "EL MOUSSAOUI Yassine",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "3afe737cc52b",
+      "name": "EL-ALAOUY Jad",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "e7bed5395901",
+      "name": "ELABBASSI Mohammed Reda",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "a6999510564a",
+      "name": "ELABED Anas",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "2d8f08f21a11",
+      "name": "ELAGABI Yahya",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "281443e05a72",
+      "name": "ELAGABY Hafsa",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "cb507a2b56bc",
+      "name": "ELKHAROUAI Iyad",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "f5bedc84a9c4",
+      "name": "ES-SAMMOUD Mohamed Riad",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "2e0120dd8db0",
+      "name": "ETTALHI Omar",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "12ac4caea1a3",
+      "name": "FADEL Ghita",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "6141ac960862",
+      "name": "FARAJI KHADIJA Malak",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "28e1dd329824",
+      "name": "FEKRANI Sara",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "78ea635ea394",
+      "name": "GAMRANE Doha",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "e0e383f5fce3",
+      "name": "GAMRANE Saja",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "f67b309b201d",
+      "name": "GHELLABI Suhaib",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "90627515449a",
+      "name": "GUISSI Assil",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "aa59fc516ab4",
+      "name": "HAIDOUR Najlae",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "7741108cbcc1",
+      "name": "HAMI Sofia",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "caaa1ca28432",
+      "name": "HAMIDI Mohamed Amine",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "372ad96bc782",
+      "name": "HAMMOUGUA Abela",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "3ea6fa40f30b",
+      "name": "HARKAOUI Malak",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "6d9673d2fc40",
+      "name": "HDILOU Rayan",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "069252fa4e78",
+      "name": "HILIL Rassil",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "a2e970f1d775",
+      "name": "HILMI Adam",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "aaa9f1b93325",
+      "name": "HOUARI Bayane",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "55cbf5f34ab4",
+      "name": "IDOMAR Med. Islam",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "9d8e36a55336",
+      "name": "JAITA Serine",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "a8ca97237a0a",
+      "name": "JAWAD Ritaj",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "790f6f1d0324",
+      "name": "KACHMI-EL MOHAMMED Rayane",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "cc3af46d6271",
+      "name": "KAMEL Rayhane",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "3020d55ff95e",
+      "name": "KAMEL Tasnim",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "79c41998fb31",
+      "name": "KHAYA Ziad",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "34bb406f3976",
+      "name": "KOUHOU Houssam",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "221d9ac1ca2e",
+      "name": "KTAIB Ghita",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "2f4a00bc28e9",
+      "name": "KTAIBI Ghita",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "ce6fbdd68baa",
+      "name": "LAHSEB Yousr",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "f7827b0a9166",
+      "name": "LAKHDER Jad",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "02e34454d46c",
+      "name": "LAMNAWAR Yahya",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "10870c141e72",
+      "name": "LAQRACHLI Janna",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "group_page"
+    },
+    {
+      "id": "7fdb4aa3532c",
+      "name": "LEBHIRI Ziad",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "group_page"
+    },
+    {
+      "id": "57accf7efef0",
+      "name": "LEBZAR Assil",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "group_page"
+    },
+    {
+      "id": "f93012a024e8",
+      "name": "LEMBARKI Yasmine",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "52c6b4448e77",
+      "name": "LHOR Malak",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "group_page"
+    },
+    {
+      "id": "0157f18f45f9",
+      "name": "LINDA Nassim",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "dbb3b3a296af",
+      "name": "MAAROUF Tasnim",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "6efd57658f99",
+      "name": "MAMOUNI Amir",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "0efc5f42b1bd",
+      "name": "MAMOUNI Janate",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "2eb7ab0bc47f",
+      "name": "MAMOUNI Nihad",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "8809508db04b",
+      "name": "MAMOUNI Rayane",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "03905cecf9d8",
+      "name": "MAMOUNI Ritaj",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "6a0d158af1b6",
+      "name": "MASSIRI Sakher",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "3f8eccaa9f79",
+      "name": "MAYAJAN Houssam",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "ef76601d7332",
+      "name": "MESSAOUDI Soulayman",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "a4047d0b89dc",
+      "name": "MHARZI Ahmed Rayane",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "d025811e4640",
+      "name": "MHIDI Qossay",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "0e151a0ed268",
+      "name": "MIGHOUAR Mosab",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "03482cee086d",
+      "name": "MOUMNI Israe",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "031433347b50",
+      "name": "NDIR Amir",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 1,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "fe103c31a4c7",
+      "name": "NDIR Arij",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "06be5f48597c",
+      "name": "OUABOU Salim",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "a4fbdee7cbda",
+      "name": "OUALD ABBOU Kenza",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "group_page"
+    },
+    {
+      "id": "5bc9ed8b176b",
+      "name": "OUAZA Maha",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 1,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "9438631604de",
+      "name": "OUKAOUZ Jad",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "ee3a01e1ee17",
+      "name": "OUMZIL Adam Ilyas",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "648f1bf28c3e",
+      "name": "RABBAOUI Sofia",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "7f2574f88cb6",
+      "name": "RAKIK Elyane",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "group_page"
+    },
+    {
+      "id": "7619ae488140",
+      "name": "RAZZOUK Mohamed Islam",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "9f9d6dd79e4b",
+      "name": "RHOUNI Yasser",
+      "className": "CE2 B",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "c34cdb2e70d2",
+      "name": "SABIR Salma",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "882861046187",
+      "name": "SAHTI Amira",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "a9da563caaa2",
+      "name": "SALEK Ritaj",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    },
+    {
+      "id": "f56e067170cd",
+      "name": "SALMI Aymane",
+      "className": "CM2",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "dfd8478d8c2b",
+      "name": "SALMI Ilyas",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "cb29cc49a4ea",
+      "name": "SAMIR Zayd",
+      "className": "CE6 B",
+      "cycle": 3,
+      "group": 3,
+      "book": "Kid's Box 6",
+      "bookSource": "database"
+    },
+    {
+      "id": "cd1f1946c6d7",
+      "name": "SANAD Hafid",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "0ef7f2391a0b",
+      "name": "SEGHIR Rayan",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "group_page"
+    },
+    {
+      "id": "a10bc5eac49b",
+      "name": "SENNOU Arij",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "9b135af58291",
+      "name": "SIBA EL Yazid",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "8d6784a71ea3",
+      "name": "SLIMANI Rawan",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "2d90b37804dd",
+      "name": "STITOU Nada",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "bddf967a95fa",
+      "name": "TAARAARTE Yazane",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "6d54dbd9a2ec",
+      "name": "TINSEFTE Othmane",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "3c40455ca969",
+      "name": "TOUIL MOHAMED Adam",
+      "className": "CPA",
+      "cycle": 1,
+      "group": 2,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "46312a9130d2",
+      "name": "VOGEL Lahna",
+      "className": "CE2 A",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "e9a3f194f0fe",
+      "name": "YASSINE Mohammed",
+      "className": "CE1",
+      "cycle": 1,
+      "group": 3,
+      "book": "Kid's Box 2",
+      "bookSource": "database"
+    },
+    {
+      "id": "2cf4384d346a",
+      "name": "ZAMRI Akram",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "537d9775150d",
+      "name": "ZENIBI Iyad",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 3,
+      "book": "Kid's Box 4",
+      "bookSource": "database"
+    },
+    {
+      "id": "3546f5a27f46",
+      "name": "ZIAT Mehdi",
+      "className": "CM1",
+      "cycle": 2,
+      "group": 2,
+      "book": "Kid's Box 3",
+      "bookSource": "database"
+    },
+    {
+      "id": "8e3960b5d0f6",
+      "name": "ZIAT Rayhane",
+      "className": "CPB",
+      "cycle": 1,
+      "group": 1,
+      "book": "Kid's Box 1",
+      "bookSource": "database"
+    },
+    {
+      "id": "6f8bf20d3e56",
+      "name": "ZRADI Ziyad",
+      "className": "CE6 A",
+      "cycle": 3,
+      "group": 2,
+      "book": "Kid's Box 5",
+      "bookSource": "database"
+    }
+  ]
+}
